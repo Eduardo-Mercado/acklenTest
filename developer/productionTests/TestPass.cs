@@ -4,13 +4,14 @@ using production;
 
 namespace productionTests
 {
-    [Fact]
-    public void TestName()
+    public class TestPass 
     {
-    //Given
-    
-    //When
-    
-    //Then
+        [Fact]
+        public void GreaterThanTest()
+        {
+            var exercise = new Exercises();
+            var result = exercise.GreaterThan(5,7);
+            Assert.False(result);
+        }
     }
 }
