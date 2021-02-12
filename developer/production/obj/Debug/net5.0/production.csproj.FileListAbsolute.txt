@@ -1,0 +1,12 @@
+/workspace/acklenTest/developer/production/bin/Debug/net5.0/production.deps.json
+/workspace/acklenTest/developer/production/bin/Debug/net5.0/production.dll
+/workspace/acklenTest/developer/production/bin/Debug/net5.0/ref/production.dll
+/workspace/acklenTest/developer/production/bin/Debug/net5.0/production.pdb
+/workspace/acklenTest/developer/production/obj/Debug/net5.0/production.csprojAssemblyReference.cache
+/workspace/acklenTest/developer/production/obj/Debug/net5.0/production.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/acklenTest/developer/production/obj/Debug/net5.0/production.AssemblyInfoInputs.cache
+/workspace/acklenTest/developer/production/obj/Debug/net5.0/production.AssemblyInfo.cs
+/workspace/acklenTest/developer/production/obj/Debug/net5.0/production.csproj.CoreCompileInputs.cache
+/workspace/acklenTest/developer/production/obj/Debug/net5.0/production.dll
+/workspace/acklenTest/developer/production/obj/Debug/net5.0/ref/production.dll
+/workspace/acklenTest/developer/production/obj/Debug/net5.0/production.pdb
